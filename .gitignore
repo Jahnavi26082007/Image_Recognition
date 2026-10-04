@@ -1,0 +1,6 @@
+@"
+imgrec/
+__pycache__/
+*.pyc
+.env
+"@ | Set-Content .gitignore
